@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Generated results
+results/
+
+# Sentaurus generated files
+*.tdr
+*.plt
+*.sav
+*.log
+
+# Temporary files
+breakdown_console.log
+
+# OS
+Thumbs.db
+.DS_Store
